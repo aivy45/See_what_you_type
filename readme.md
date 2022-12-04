@@ -18,6 +18,6 @@
 
 - ![](https://img.shields.io/badge/HTML--CSS-JavaScript-lightgrey)
 
-![](./image/See_What_You_Type.png)
+![](./Image/See_What_You_Type.png)
  ### Feedback
  - If you have any feedback, please reach out to me at akshunverma45@gmail.com
